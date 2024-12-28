@@ -1,5 +1,5 @@
 import React, { useState } from 'react';  // Import useState hook
-import './App.css';  // Import custom CSS for styles
+import './main.css';  // Import custom CSS for styles
 
 function App() {
     const [count, setCount] = useState(0);  // Initialize counter state
@@ -26,3 +26,4 @@ function App() {
 }
 
 export default App;
+
