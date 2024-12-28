@@ -1,6 +1,6 @@
 {
-    "name": "demo-pages",
-    "homepage": "/demo-pages",
+    "name": "counterapp",
+    "homepage": "/CounterApp",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
