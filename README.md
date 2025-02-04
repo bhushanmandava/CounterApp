@@ -1,6 +1,4 @@
-Here is an updated README file for your CounterApp project:
 
-```
 # CounterApp
 
 ## Overview
