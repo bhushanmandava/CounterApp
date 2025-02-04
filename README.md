@@ -1,8 +1,4 @@
-It appears there is no existing README file specifically for the CounterApp repository.
 
-Here is a basic README file you can use for your project:
-
-```
 # CounterApp
 
 ## Overview
