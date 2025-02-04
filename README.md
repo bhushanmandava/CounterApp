@@ -1,4 +1,6 @@
+Here is an updated README file for your CounterApp project:
 
+```
 # CounterApp
 
 ## Overview
@@ -36,6 +38,11 @@ CounterApp is a simple web application designed to demonstrate a counter functio
    ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
+## Production
+You can access the production version of the app [here](https://bhushanmandava.github.io/CounterApp/).
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
+
+
 
